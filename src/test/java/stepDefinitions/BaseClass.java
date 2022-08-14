@@ -134,57 +134,53 @@ public class BaseClass {
         boolean returnVal = false;
         int rowVal = getNoOfRowsInATable(xpathToTable + "/div");
 
-        String sColValue = null;
-
-        if(((rowVal == 0) && (fullName.equals(""))) || ((rowVal == 0) && (country.equals("")))){
+        //If no matching records available when search using one field (need to enter incorrect search key)
+        if (((rowVal == 0) && (fullName.equals(""))) || ((rowVal == 0) && (country.equals("")))) {
             System.out.println("Search successful !");
             returnVal = true;
-        }else{
+        } else {
 
             int column = getNoOfColumnsInATable(xpathToTable + "/div");
             for (int j = 1; j <= column; j++) {
 
-                for (int i = 1; i < rowVal+1 ; i++) {
+                for (int i = 1; i < rowVal + 1; i++) {
                     String sNameValue = "";
                     String sCountryValue = "";
 
-                    switch (filter){
+                    switch (filter) {
                         case "FullName":
-                            sNameValue = driver.findElement(By.xpath(xpathToTable+"/div["+i+"]/div[1]")).getText();
+                            sNameValue = driver.findElement(By.xpath(xpathToTable + "/div[" + i + "]/div[1]")).getText();
                             System.out.println("sNameValue full name = " + sNameValue);
-                            if(sNameValue.equalsIgnoreCase(fullName))  {
-                                System.out.println("Search successful !");
-                                returnVal = true;
-                                return returnVal;
-                            }
-                            break;
-                            case "Country":
-                                sCountryValue = driver.findElement(By.xpath(xpathToTable+"/div["+i+"]/div[6]")).getText();
-                                System.out.println("sCountryValue country = " + sCountryValue);
-                            if(sCountryValue.equalsIgnoreCase(country))  {
-                                System.out.println("Search successful !");
-                                returnVal = true;
-                                return returnVal;
-                            }
-                            break;
-                            case "Both":
-                                sNameValue = driver.findElement(By.xpath(xpathToTable+"/div["+i+"]/div[1]")).getText();
-                                sCountryValue = driver.findElement(By.xpath(xpathToTable+"/div["+i+"]/div[6]")).getText();
-                                System.out.println("sNameValue both = " + sNameValue);
-                                System.out.println("sCountryValue both = " + sCountryValue);
-                            if((sNameValue.equalsIgnoreCase(fullName)) && (sCountryValue.equalsIgnoreCase(country)))  {
+                            if (sNameValue.equalsIgnoreCase(fullName)) {
                                 System.out.println("Search successful !");
                                 returnVal = true;
                                 return returnVal;
                             }
                             break;
 
+                        case "Country":
+                            sCountryValue = driver.findElement(By.xpath(xpathToTable + "/div[" + i + "]/div[6]")).getText();
+                            System.out.println("sCountryValue country = " + sCountryValue);
+                            if (sCountryValue.equalsIgnoreCase(country)) {
+                                System.out.println("Search successful !");
+                                returnVal = true;
+                                return returnVal;
+                            }
+                            break;
 
+                        case "Both":
+                            sNameValue = driver.findElement(By.xpath(xpathToTable + "/div[" + i + "]/div[1]")).getText();
+                            sCountryValue = driver.findElement(By.xpath(xpathToTable + "/div[" + i + "]/div[6]")).getText();
+                            System.out.println("sNameValue both = " + sNameValue);
+                            System.out.println("sCountryValue both = " + sCountryValue);
+                            if ((sNameValue.equalsIgnoreCase(fullName)) && (sCountryValue.equalsIgnoreCase(country))) {
+                                System.out.println("Search successful !");
+                                returnVal = true;
+                                return returnVal;
+                            }
+                            break;
                     }
 
-
-
-                    // System.out.println("Search successful ! : " + sRowValue);
                 }
 
             }

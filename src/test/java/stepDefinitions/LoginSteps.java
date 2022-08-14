@@ -80,8 +80,6 @@ public class LoginSteps extends BaseClass {
         logger.info("---- Login success and navigated to View Data page ----");
     }
 
-
-
     @Then("Verify Error in login")
     public void login_error() {
         loginPage = new LoginPage(driver);

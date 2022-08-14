@@ -96,13 +96,17 @@ public class ViewDataPage {
 
         BaseClass baseClass = new BaseClass();
 
-        Select select = new Select(filterType);
-        select.selectByVisibleText(type);
+        Select selectType = new Select(filterType);
+        selectType.selectByVisibleText(type);
 
         switch(type) {
             case "Equals":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -138,6 +142,10 @@ public class ViewDataPage {
              case "Not equal":
                  filterText.sendKeys(text);
                  if(operation.equals("AND") || operation.equals("OR")){
+
+                     Select selectConditionType = new Select(filterConditionType);
+                     selectConditionType.selectByVisibleText(type);
+
                      if(conditionType != null){
                          if(conditionType != null){
                              switch(conditionType){
@@ -173,6 +181,10 @@ public class ViewDataPage {
              case "Starts with":
                  filterText.sendKeys(text);
                  if(operation.equals("AND") || operation.equals("OR")){
+
+                     Select selectConditionType = new Select(filterConditionType);
+                     selectConditionType.selectByVisibleText(type);
+
                      if(conditionType != null){
                          if(conditionType != null){
                              switch(conditionType){
@@ -208,6 +220,10 @@ public class ViewDataPage {
              case "Ends with":
                  filterText.sendKeys(text);
                  if(operation.equals("AND") || operation.equals("OR")){
+
+                     Select selectConditionType = new Select(filterConditionType);
+                     selectConditionType.selectByVisibleText(type);
+
                      if(conditionType != null){
                          if(conditionType != null){
                              switch(conditionType){
@@ -243,6 +259,10 @@ public class ViewDataPage {
             case "Contains":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -278,6 +298,10 @@ public class ViewDataPage {
              case "Not contains":
                  filterText.sendKeys(text);
                  if(operation.equals("AND") || operation.equals("OR")){
+
+                     Select selectConditionType = new Select(filterConditionType);
+                     selectConditionType.selectByVisibleText(type);
+
                      if(conditionType != null){
                          if(conditionType != null){
                              switch(conditionType){
@@ -316,7 +340,7 @@ public class ViewDataPage {
 
         public void selectFilterByCountry(String type, String text, String operation, String conditionType, String conditionText) throws InterruptedException {
 
-        BaseClass baseClass = new BaseClass();
+        //BaseClass baseClass = new BaseClass();
 
         Select select = new Select(filterType);
         select.selectByVisibleText(type);
@@ -326,7 +350,7 @@ public class ViewDataPage {
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
                     if(conditionType != null){
-                        if(conditionType != null){
+                        if(conditionText != null){
                             switch(conditionType){
                                 case "Contains":
                                     Thread.sleep(2000);
@@ -360,6 +384,10 @@ public class ViewDataPage {
             case "Not equal":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -395,6 +423,10 @@ public class ViewDataPage {
             case "Starts with":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -430,6 +462,10 @@ public class ViewDataPage {
             case "Ends with":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -465,6 +501,10 @@ public class ViewDataPage {
             case "Contains":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -500,6 +540,10 @@ public class ViewDataPage {
             case "Not contains":
                 filterText.sendKeys(text);
                 if(operation.equals("AND") || operation.equals("OR")){
+
+                    Select selectConditionType = new Select(filterConditionType);
+                    selectConditionType.selectByVisibleText(type);
+
                     if(conditionType != null){
                         if(conditionType != null){
                             switch(conditionType){
@@ -534,6 +578,7 @@ public class ViewDataPage {
                 break;
         }
     }
+
     public void clickFilterCountry() {
         filterCountry.click();
     }
