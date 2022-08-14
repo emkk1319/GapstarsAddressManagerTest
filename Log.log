@@ -1,0 +1,2039 @@
+2022-08-03 15:20:09 INFO  class:46 - ********** Launching Browser **********
+2022-08-03 15:20:09 INFO  class:58 - ********** Opening URL **********
+2022-08-03 15:21:26 INFO  class:46 - ********** Launching Browser **********
+2022-08-03 15:21:26 INFO  class:58 - ********** Opening URL **********
+2022-08-03 15:23:24 INFO  class:46 - ********** Launching Browser **********
+2022-08-03 15:23:24 INFO  class:58 - ********** Opening URL **********
+2022-08-03 15:23:25 INFO  class:66 - ********** Providing login details **********
+2022-08-03 15:37:14 INFO  Steps:46 - ********** Launching Browser **********
+2022-08-03 15:37:14 INFO  Steps:58 - ********** Opening URL **********
+2022-08-03 15:42:12 INFO  Steps:40 - ********** Launching Browser **********
+2022-08-03 15:42:12 INFO  Steps:52 - ********** Opening URL **********
+2022-08-03 15:43:15 INFO  Steps:40 - ********** Launching Browser **********
+2022-08-03 15:43:15 INFO  Steps:52 - ********** Opening URL **********
+2022-08-03 15:43:19 INFO  Steps:60 - ********** Providing login details **********
+2022-08-03 15:43:19 INFO  Steps:67 - ********** Clicking on Login button **********
+2022-08-03 15:49:06 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-03 15:49:06 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 06:12:44 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 06:12:44 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 06:12:47 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 06:12:47 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 06:13:52 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 06:13:52 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 06:13:53 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 06:13:53 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 06:19:13 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 06:19:13 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 06:19:14 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 06:19:14 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 07:11:56 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 07:11:56 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 07:11:58 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 07:11:58 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 07:14:16 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 07:14:16 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 07:14:17 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 07:14:17 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 07:15:49 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 07:15:49 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 07:15:50 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 07:15:50 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 07:47:04 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 07:47:04 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 07:47:05 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 07:47:05 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 07:52:11 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 07:52:11 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 07:52:12 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 07:52:12 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:07:16 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:07:16 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:07:17 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:07:18 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:10:07 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:10:07 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:10:08 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:10:08 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:10:40 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:10:40 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:10:41 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:10:42 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:12:32 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:12:32 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:12:33 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:12:33 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:15:15 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:15:15 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:15:16 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:15:17 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:16:29 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:16:29 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:16:30 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:16:30 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:19:59 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:20:00 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:20:01 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:20:01 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 08:30:02 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 08:30:02 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 08:30:03 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 08:30:03 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 16:14:53 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 16:14:53 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 16:14:54 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 16:14:54 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 16:31:32 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 16:31:32 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 16:31:33 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 16:31:33 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 16:37:59 INFO  Steps:41 - ********** Launching Browser **********
+2022-08-04 16:37:59 INFO  Steps:53 - ********** Opening URL **********
+2022-08-04 16:38:01 INFO  Steps:61 - ********** Providing login details **********
+2022-08-04 16:38:01 INFO  Steps:68 - ********** Clicking on Login button **********
+2022-08-04 16:50:25 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 16:50:25 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 16:50:27 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 16:50:28 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 16:52:00 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 16:52:00 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 16:52:01 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 16:52:01 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 17:17:10 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 17:17:11 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 17:17:13 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 17:17:13 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 17:20:52 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 17:20:53 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 17:20:54 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 17:20:54 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 17:50:14 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 17:50:14 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 17:50:17 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 17:50:17 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 17:51:09 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 17:51:09 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 17:51:10 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 17:51:10 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 18:02:08 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 18:02:08 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 18:02:11 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 18:02:11 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 18:05:07 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 18:05:07 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 18:05:08 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 18:05:08 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 18:09:28 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 18:09:28 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 18:09:31 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 18:09:31 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 18:47:48 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 18:47:48 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 18:47:50 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 18:47:50 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 18:56:52 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 18:56:52 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 18:56:54 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 18:56:54 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 18:58:10 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 18:58:10 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 18:58:12 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 18:58:12 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 19:06:36 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:06:36 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:06:38 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 19:06:38 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 19:34:09 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:34:09 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:34:11 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 19:34:11 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 19:45:16 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:45:16 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:45:18 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 19:45:18 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 19:49:38 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:49:38 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:49:40 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 19:49:40 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 19:50:22 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:50:22 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:50:23 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 19:50:23 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 19:57:17 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:57:54 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:58:14 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 19:58:14 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 19:58:15 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 19:58:16 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 20:00:42 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 20:00:42 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 20:00:43 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 20:00:43 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 20:01:51 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 20:01:51 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 20:01:52 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 20:01:52 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 20:02:47 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 20:02:49 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 20:02:50 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 20:02:50 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 20:04:37 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 20:04:37 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 20:04:39 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 20:04:39 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 22:32:47 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:32:47 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:33:54 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:33:54 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:33:57 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 22:33:57 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 22:35:35 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:35:35 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:35:37 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 22:35:37 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 22:36:28 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:36:28 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:36:29 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 22:36:29 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 22:36:47 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:36:47 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:36:52 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 22:36:52 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 22:38:07 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:38:07 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:38:10 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 22:38:10 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-04 22:39:13 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-04 22:39:13 INFO  Steps:56 - ********** Opening URL **********
+2022-08-04 22:39:14 INFO  Steps:64 - ********** Providing login details **********
+2022-08-04 22:39:14 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 07:44:51 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 07:44:51 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 07:44:53 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 07:44:53 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 07:50:37 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 07:50:37 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 07:50:39 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 07:50:39 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 07:50:56 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 07:50:56 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 07:50:57 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 07:50:57 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:07:21 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 08:07:21 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:07:23 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:07:23 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:07:24 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 08:07:24 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:18:37 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 08:18:37 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:18:38 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:18:38 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:18:39 INFO  Steps:42 - ********** Launching Browser **********
+2022-08-05 08:22:09 INFO  Steps:55 - ********** Opening URL **********
+2022-08-05 08:22:26 INFO  Steps:43 - ********** Launching Browser **********
+2022-08-05 08:22:26 INFO  Steps:55 - ********** Opening URL **********
+2022-08-05 08:22:27 INFO  Steps:63 - ********** Providing login details **********
+2022-08-05 08:22:28 INFO  Steps:70 - ********** Clicking on Login button **********
+2022-08-05 08:22:29 INFO  Steps:43 - ********** Launching Browser **********
+2022-08-05 08:23:10 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:27:09 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:27:09 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:27:10 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:27:10 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:27:11 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:35:43 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:35:43 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:35:44 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:35:45 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:35:46 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:35:46 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:35:47 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:35:47 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:46:48 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:46:48 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:46:50 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:46:50 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:46:51 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:46:51 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:46:52 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:46:52 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:49:02 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:49:02 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:49:03 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:49:03 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 08:49:05 INFO  Steps:44 - ********** Launching Browser **********
+2022-08-05 08:49:05 INFO  Steps:56 - ********** Opening URL **********
+2022-08-05 08:49:06 INFO  Steps:64 - ********** Providing login details **********
+2022-08-05 08:49:06 INFO  Steps:71 - ********** Clicking on Login button **********
+2022-08-05 14:12:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 14:12:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 14:12:22 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 14:12:22 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 14:12:24 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 14:12:24 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 14:12:25 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 14:12:25 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 14:14:55 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 14:14:55 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 14:14:57 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 14:14:57 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 14:14:59 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 14:14:59 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 14:15:00 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 14:15:00 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 14:17:19 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 14:17:19 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 14:17:20 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 14:17:20 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 14:17:21 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 14:17:22 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 14:17:23 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 14:17:23 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 15:06:12 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 15:06:12 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 15:06:15 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 15:06:15 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:10:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:10:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:10:23 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:10:23 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:16:13 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:16:13 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:16:14 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:16:14 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:17:47 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:17:47 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:17:48 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:17:48 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:18:24 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:18:24 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:18:26 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:18:26 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:21:16 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:21:16 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:21:17 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:21:17 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:27:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:27:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:27:21 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:27:22 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:28:04 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:28:04 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:28:05 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:28:05 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:29:05 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:29:05 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:29:06 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:29:06 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 16:30:27 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 16:30:27 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 16:30:28 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 16:30:29 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 18:34:33 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 18:34:33 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 18:34:34 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 18:34:34 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 18:35:13 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 18:35:13 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 18:35:17 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 18:35:17 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 18:40:30 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 18:40:30 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 18:40:31 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 18:40:31 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 19:41:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 19:41:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 19:41:22 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 19:41:22 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 19:58:47 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 19:58:47 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 19:58:49 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 19:58:49 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:10:15 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:10:15 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:10:17 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:10:17 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:12:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:12:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:12:22 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:12:22 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:15:35 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:15:35 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:15:36 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:15:37 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:27:55 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:27:55 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:27:57 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:27:57 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:49:07 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:49:07 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:49:09 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:49:09 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:58:51 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:58:51 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:58:52 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:58:53 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 20:59:16 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 20:59:16 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 20:59:17 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 20:59:18 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-05 21:01:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-05 21:01:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-05 21:01:21 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-05 21:01:22 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:24:36 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:24:36 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:24:38 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:24:38 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:25:34 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:25:34 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:25:36 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:25:36 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:26:28 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:26:28 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:26:29 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:26:29 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:27:23 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:27:23 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:27:24 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:27:24 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:30:10 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:30:10 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:30:11 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:30:11 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:33:06 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:33:06 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:33:07 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:33:07 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:34:32 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:34:32 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:34:33 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:34:33 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:36:40 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:36:40 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:36:41 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:36:42 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 00:37:08 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 00:37:08 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 00:37:10 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 00:37:10 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 01:25:26 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 01:25:26 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 01:25:28 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 01:25:28 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 01:25:56 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 01:25:56 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 01:25:57 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 01:25:57 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 01:28:46 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 01:28:46 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 01:28:47 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 01:28:48 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 01:29:51 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 01:29:51 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 01:29:52 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 01:29:52 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 01:35:16 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 01:35:16 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 01:35:17 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 01:35:17 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 01:37:08 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 01:37:08 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 01:37:09 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 01:37:09 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 02:58:20 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 02:58:20 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 02:58:22 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 02:58:23 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:02:30 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:02:31 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:02:32 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:02:32 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:04:33 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:04:33 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:04:34 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:04:34 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:05:47 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:05:47 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:05:48 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:05:48 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:07:54 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:07:54 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:07:55 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:07:55 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:09:01 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:09:01 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:09:02 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:09:02 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:09:45 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:09:45 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:09:46 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:09:47 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:12:26 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:12:26 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:12:28 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:12:28 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 03:12:58 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 03:12:58 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 03:12:59 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 03:13:00 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:22:10 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:22:10 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:22:12 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:22:13 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:23:30 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:23:30 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:23:31 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:23:31 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:24:22 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:24:22 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:24:25 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:24:25 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:26:50 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:26:50 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:26:52 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:26:52 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:27:16 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:27:16 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:27:18 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:27:18 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:43:38 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:43:38 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:43:40 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:43:40 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 05:47:44 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 05:47:44 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 05:47:47 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 05:47:47 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 13:23:11 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 13:23:11 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 13:23:13 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 13:23:13 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 13:24:27 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 13:24:27 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 13:24:30 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 13:24:30 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 13:25:06 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 13:25:06 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 13:25:07 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 13:25:07 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 13:28:11 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 13:28:11 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 13:28:12 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 13:28:12 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-06 13:30:33 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-06 13:30:33 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-06 13:30:34 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-06 13:30:34 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:20:21 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:20:21 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:20:23 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:20:23 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:23:44 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:23:44 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:23:45 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:23:45 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:23:48 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:23:48 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:23:49 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:23:49 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:25:58 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:25:58 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:26:00 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:26:00 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:26:03 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:26:03 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:26:04 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:26:04 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:27:00 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:27:00 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:27:00 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:27:01 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:27:03 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:27:03 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:27:04 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:27:05 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:29:33 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:29:33 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:29:34 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:29:34 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:29:36 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:29:36 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:29:37 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:29:37 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:32:29 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:32:29 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:32:30 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:32:31 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:32:33 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:32:33 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:32:34 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:32:34 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:34:37 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:34:37 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:34:39 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:34:39 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 05:34:42 INFO  LoginSteps:39 - ********** Launching Browser **********
+2022-08-07 05:34:42 INFO  LoginSteps:51 - ---- Opening URL ----
+2022-08-07 05:34:44 INFO  LoginSteps:59 - ---- Providing login details ----
+2022-08-07 05:34:44 INFO  LoginSteps:66 - ---- Clicking on Login button ----
+2022-08-07 06:41:03 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 06:41:06 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 06:41:06 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 06:41:06 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 06:41:06 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 06:41:06 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 06:41:07 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 06:41:07 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 06:41:07 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 06:41:07 INFO  AddDataSteps:73 - ---- New record added to the system successfully ----
+2022-08-07 06:41:09 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 06:41:10 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 06:41:10 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 06:41:10 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 06:41:10 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 06:41:10 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 06:41:12 INFO  AddDataSteps:79 - ---- Address field is mandatory ----
+2022-08-07 06:43:08 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 06:43:09 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 06:43:09 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 06:43:09 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 06:43:09 INFO  FilterDataSteps:23 - ---- User navigates to  on Add Data page ----
+2022-08-07 06:47:30 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 06:47:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 06:47:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 06:47:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 06:58:03 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 06:58:04 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 06:58:05 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 06:58:05 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 06:58:05 INFO  FilterDataSteps:23 - ---- User navigates to  on Add Data page ----
+2022-08-07 07:37:16 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:37:28 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:37:29 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 07:37:29 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 07:37:29 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 07:37:29 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 07:37:29 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 07:37:31 INFO  AddDataSteps:79 - ---- Address field is mandatory ----
+2022-08-07 07:37:32 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:37:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 07:37:34 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 07:37:34 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 07:37:34 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 07:37:53 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:37:54 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 07:37:54 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 07:37:54 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 07:37:54 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 07:37:54 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 07:37:55 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 07:37:55 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 07:37:55 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 07:37:55 INFO  AddDataSteps:73 - ---- New record added to the system successfully ----
+2022-08-07 07:37:57 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:37:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 07:37:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 07:37:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 07:37:58 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 07:37:58 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 07:38:00 INFO  AddDataSteps:79 - ---- Address field is mandatory ----
+2022-08-07 07:38:01 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:38:03 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 07:38:03 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 07:38:03 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 07:38:03 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 07:38:51 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 07:38:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 07:38:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 07:38:52 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 07:38:52 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 07:38:52 INFO  FilterDataSteps:34 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:14:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:14:35 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:14:36 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:14:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:14:36 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:16:00 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:16:01 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:16:02 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:16:02 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:16:02 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:16:14 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:16:15 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:16:15 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:16:15 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:16:15 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:16:58 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:16:59 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:16:59 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:16:59 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:17:20 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:17:43 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:17:44 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:17:45 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:17:45 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:17:45 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:17:58 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:17:59 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:17:59 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:17:59 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:17:59 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:18:34 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:18:35 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:18:35 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:18:35 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:18:36 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:18:37 INFO  FilterDataSteps:34 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:36:36 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:36:38 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:36:38 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:36:38 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:36:38 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:36:38 INFO  FilterDataSteps:34 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:38:13 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:38:14 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:38:14 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:38:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:38:15 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:38:15 INFO  FilterDataSteps:34 - ---- User navigates to  on Add Data page ----
+2022-08-07 08:53:23 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 08:53:25 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 08:53:25 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 08:53:25 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 08:53:26 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:00:13 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:00:15 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:00:15 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:00:15 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:00:15 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 09:00:16 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 09:00:16 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 09:00:16 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:32:12 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:32:13 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:32:13 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:32:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:32:14 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:33:05 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:33:06 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:33:06 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:33:07 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:33:07 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:33:07 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:34:04 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:34:05 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:34:06 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:34:06 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:34:06 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:34:06 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:34:32 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:34:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:34:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:34:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:34:33 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:35:16 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:37:10 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:37:11 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:37:11 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:37:11 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:37:11 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:38:16 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:40:46 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:40:47 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:40:47 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:40:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:40:47 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:40:57 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:45:38 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:45:40 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:45:40 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:45:40 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:45:40 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:47:31 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:47:32 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:47:32 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:47:32 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:47:32 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:48:10 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:48:11 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:48:11 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:48:11 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:48:11 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:48:46 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:48:47 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:48:47 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:48:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:48:47 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:48:55 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:49:10 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:49:12 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:49:12 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:49:12 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:49:13 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:49:43 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:49:43 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:49:44 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:49:44 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:49:44 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:52:22 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:52:23 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:52:23 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:52:24 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:52:24 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:52:26 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:53:12 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:53:14 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:53:14 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:53:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:53:14 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:53:16 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:58:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:58:43 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:58:43 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:58:43 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:58:43 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:58:43 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:59:33 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 09:59:34 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 09:59:34 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 09:59:35 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 09:59:35 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 09:59:35 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 10:02:53 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 10:02:54 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 10:02:54 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 10:03:00 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 10:03:00 INFO  FilterDataSteps:24 - ---- User navigates to  on Add Data page ----
+2022-08-07 10:03:01 INFO  FilterDataSteps:38 - ---- User navigates to  on Add Data page ----
+2022-08-07 10:24:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 10:24:44 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 10:24:44 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 10:24:44 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 10:24:44 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 10:24:44 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 10:24:46 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 10:24:47 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 10:24:47 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 10:24:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 10:24:47 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 10:24:47 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 10:34:33 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 10:34:34 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 10:34:34 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 10:34:34 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 10:34:34 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 10:34:35 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 10:34:36 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 10:34:37 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 10:34:37 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 10:34:37 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 10:34:37 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 10:34:37 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:10:09 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:10:11 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:10:11 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:10:11 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:10:11 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:10:11 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:10:13 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:10:14 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:10:14 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:10:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:10:14 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:10:14 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:10:16 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:10:17 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:10:17 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:10:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:10:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:10:20 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:10:20 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:10:20 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:10:22 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:10:23 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:10:23 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:10:23 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:17:37 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:17:38 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:17:38 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:17:39 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:17:39 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:17:39 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:17:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:17:42 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:17:42 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:17:42 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:17:42 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:17:42 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:17:44 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:17:45 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:17:45 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:17:45 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:17:47 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:17:48 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:17:48 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:17:48 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:17:50 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:17:51 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:17:51 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:17:51 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:20:00 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:21:11 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:21:16 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:21:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:21:22 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:22:21 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:22:22 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:22:22 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:22:22 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:22:23 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:22:23 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:22:24 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:22:25 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:22:25 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:22:25 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:22:25 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:22:26 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:22:27 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:22:28 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:22:28 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:22:29 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:22:30 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:22:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:22:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:22:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:22:33 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:22:34 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:22:34 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:22:34 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:24:37 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:24:40 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:24:40 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:24:40 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:24:40 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:24:40 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:24:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:24:42 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:24:43 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:24:43 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:24:43 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:24:43 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:24:44 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:24:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:24:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:24:46 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:24:47 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:24:48 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:24:49 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:24:49 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:24:50 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:24:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:24:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:24:52 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:26:15 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:26:17 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:26:17 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:26:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:26:18 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:26:18 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:26:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:26:20 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:26:21 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:26:21 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:26:21 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:26:21 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:26:23 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:26:26 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:26:26 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:26:26 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:26:28 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:26:29 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:26:29 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:26:30 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:26:31 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:26:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:26:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:26:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:32:42 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:32:43 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:32:43 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:32:43 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:32:43 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:32:43 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:32:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:32:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:32:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:32:46 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:32:47 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:32:47 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:32:48 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:32:49 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:32:50 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:32:50 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:32:51 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:32:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:32:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:32:53 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:32:54 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:32:55 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:32:56 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:32:56 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:34:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:34:22 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:34:22 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:34:22 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:34:22 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:34:22 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:34:24 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:34:25 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:34:25 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:34:26 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:34:26 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:34:26 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:34:28 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:34:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:34:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:34:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:34:31 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:34:34 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:34:37 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:34:37 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:34:37 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:34:37 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:34:42 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:34:50 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:34:50 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:34:51 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:34:51 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:36:53 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:36:54 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:36:54 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:36:54 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:36:54 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:36:55 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:36:57 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:36:58 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:36:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:36:59 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:36:59 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:36:59 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:37:01 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:37:03 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:37:04 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:37:04 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:37:05 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:37:05 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 11:37:07 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:37:08 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:37:09 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:37:09 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:37:09 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:37:09 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 11:37:14 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:37:16 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:37:17 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:37:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:37:17 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:37:17 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 11:40:17 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:40:18 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:40:18 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:40:19 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:40:19 INFO  FilterDataSteps:24 - ---- Clicking filter from the full name column ----
+2022-08-07 11:40:19 INFO  FilterDataSteps:38 - ---- Filtered by Full Name ----
+2022-08-07 11:40:21 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:40:22 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:40:22 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:40:22 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:40:22 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:40:23 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 11:40:24 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:40:26 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:40:26 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:40:26 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:40:26 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:40:27 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 11:40:29 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:40:30 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:40:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:40:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:40:31 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:40:32 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 11:40:36 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:40:40 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:40:41 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:40:42 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:40:42 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 11:40:42 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 11:50:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 11:50:36 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 11:50:37 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 11:50:37 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 11:50:37 INFO  FilterDataSteps:45 - ---- Clicking filter from the country column ----
+2022-08-07 11:50:37 INFO  FilterDataSteps:59 - ---- Filtered by Country ----
+2022-08-07 12:13:56 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:13:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:13:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:13:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:13:58 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:13:58 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:13:59 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:14:00 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:14:01 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:14:01 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:14:01 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:14:01 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:14:02 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:14:03 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:14:03 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:14:04 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:14:04 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:14:04 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:19:12 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:19:13 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:19:13 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:19:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:19:14 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:19:14 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:19:14 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 12:19:15 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:19:16 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:19:16 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:19:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:19:17 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:19:17 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:19:18 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:19:19 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:19:20 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:19:20 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:19:20 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:19:20 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:22:15 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:22:17 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:22:18 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:22:18 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:22:18 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:22:18 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:22:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:22:20 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:22:21 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:22:21 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:22:21 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:22:21 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:22:29 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:22:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:22:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:22:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:22:32 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:22:32 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:26:07 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:26:08 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:26:08 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:26:08 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:26:08 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:26:08 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:26:10 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:26:11 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:26:11 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:26:11 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:26:11 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:26:11 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:26:13 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:26:14 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:26:14 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:26:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:26:15 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:26:15 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:32:44 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:32:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:32:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:32:46 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:32:46 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:32:46 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:32:48 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:32:49 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:32:49 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:32:49 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:32:49 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:32:49 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:32:51 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:32:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:32:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:32:52 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:32:52 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:32:53 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:39:23 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:39:24 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:39:24 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:39:24 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:39:24 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:39:24 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:39:26 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:39:27 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:39:27 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:39:27 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:39:27 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:39:27 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:39:29 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:39:30 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:39:30 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:39:30 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:39:30 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:39:30 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:39:46 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:39:49 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:39:49 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:39:50 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:39:50 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:39:50 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:41:26 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:41:28 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:41:28 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:41:28 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:41:28 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:41:28 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:45:11 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:45:12 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:45:12 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:45:12 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:45:12 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:45:12 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:45:14 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:45:15 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:45:15 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:45:15 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:45:15 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:45:15 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:45:17 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:45:18 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:45:18 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:45:18 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:45:18 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:45:19 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:45:52 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:45:56 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:45:56 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:45:57 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:45:57 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:45:57 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:45:58 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:46:01 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:46:01 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:46:01 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:46:01 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:46:01 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:46:03 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:46:04 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:46:04 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:46:05 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:46:05 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:46:05 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:46:39 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:46:40 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:46:40 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:46:40 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:46:40 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:46:40 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:47:03 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:47:06 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:47:06 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:47:06 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:47:06 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:47:06 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:47:08 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:48:11 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:48:12 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:48:12 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:48:12 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:48:12 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:48:12 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:48:23 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:48:24 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:48:24 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:48:24 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:48:24 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:48:24 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:48:26 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:48:27 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:48:27 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:48:27 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:48:27 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:48:28 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:49:23 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:49:24 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:49:24 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:49:25 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:49:25 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:49:25 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:50:10 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:50:11 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:50:11 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:50:11 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:50:11 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:50:11 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:50:13 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:50:14 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:50:14 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:50:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:50:14 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:50:14 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:51:13 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:51:17 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:51:17 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:51:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:51:17 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:51:17 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:51:37 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 12:51:38 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:51:40 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:51:40 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:51:40 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:51:40 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:51:40 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:51:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:51:42 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:51:42 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:51:43 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:51:43 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:51:43 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:54:11 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:54:12 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:54:12 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:54:12 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:54:12 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:54:13 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:54:14 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:54:15 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:54:15 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:54:15 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:54:15 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:54:15 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:54:17 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:54:18 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:54:18 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:54:18 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:54:18 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:54:18 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:57:42 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:57:43 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:57:43 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:57:43 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:57:43 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:57:43 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:57:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:57:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:57:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:57:46 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:57:46 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:57:47 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 12:57:48 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 12:57:49 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 12:57:49 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 12:57:49 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 12:57:50 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 12:57:50 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:01:26 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:01:27 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:01:27 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:01:27 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:01:27 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:01:27 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:01:28 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:01:29 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:01:30 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:01:30 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:01:30 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:01:31 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:01:31 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:01:32 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:01:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:01:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:01:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:01:33 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:01:34 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:02:01 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:02:05 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:02:05 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:02:05 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:02:05 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:02:05 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:02:05 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:02:07 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:02:09 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:02:09 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:02:09 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:02:10 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:02:10 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:02:11 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:02:13 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:02:14 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:02:14 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:02:14 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:02:14 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:17:34 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:17:35 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:17:35 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:17:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:17:36 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:17:36 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:17:36 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:17:37 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:17:38 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:17:39 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:17:39 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:17:39 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:17:39 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:17:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:17:42 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:17:42 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:17:42 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:17:42 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:17:42 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:19:25 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:19:26 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:19:27 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:19:27 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:19:27 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 13:19:27 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 13:19:28 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 13:19:28 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 13:19:28 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 13:19:28 INFO  AddDataSteps:73 - ---- New record added to the system successfully ----
+2022-08-07 13:19:30 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:19:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:19:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:19:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:19:31 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 13:19:31 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 13:19:33 INFO  AddDataSteps:79 - ---- Address field is mandatory ----
+2022-08-07 13:19:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:19:36 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:19:36 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:19:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:19:37 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:19:37 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:19:37 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:19:40 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:19:41 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:19:41 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:19:42 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:19:42 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:19:42 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:19:42 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 13:19:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:19:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:19:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:19:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:19:47 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:19:47 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:35:22 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:35:23 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:35:23 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:35:23 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:35:24 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 13:35:24 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 13:35:24 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 13:35:24 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 13:35:25 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 13:35:25 INFO  AddDataSteps:73 - ---- New record added to the system successfully ----
+2022-08-07 13:35:26 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:35:27 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:35:27 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:35:27 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:35:28 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 13:35:28 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 13:35:30 INFO  AddDataSteps:79 - ---- Address field is mandatory ----
+2022-08-07 13:35:31 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:35:32 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:35:32 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:35:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:35:33 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:35:33 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:35:33 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:35:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:35:36 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:35:36 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:35:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:35:36 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:35:37 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:35:37 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 13:35:39 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:35:40 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:35:40 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:35:41 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:35:41 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:39:24 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:39:25 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:39:25 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:39:25 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:39:25 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:39:25 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:39:25 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:39:27 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:39:28 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:39:28 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:39:28 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:39:29 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:39:29 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:39:29 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 13:39:31 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:39:32 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:39:32 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:39:32 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:39:32 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:39:32 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:41:46 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:41:48 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:41:48 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:41:48 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:41:48 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:41:48 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:41:49 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:41:51 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:41:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:41:53 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:41:53 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:41:53 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:41:53 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:41:54 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 13:41:56 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:41:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:41:57 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:41:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:41:58 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:41:58 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:44:21 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:44:23 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:44:23 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:44:23 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:44:23 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:44:23 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:44:24 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:44:29 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:44:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:44:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:44:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:44:32 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:44:32 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:44:32 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 13:44:34 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:44:35 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:44:35 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:44:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:44:36 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:44:36 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:45:34 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:45:37 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:45:37 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:45:37 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:45:37 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:45:37 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:45:38 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 13:45:39 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:45:41 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:45:42 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:45:42 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:45:42 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:45:42 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 13:45:42 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 13:45:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 13:45:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 13:45:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 13:45:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 13:45:47 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 13:45:47 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:04:23 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:04:24 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:04:24 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:04:24 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:04:25 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:04:25 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:04:25 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 14:04:25 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:04:26 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 14:04:27 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:04:28 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:04:29 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:04:29 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:04:29 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:04:29 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:04:31 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:04:33 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:04:35 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:04:35 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:04:35 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:04:35 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:04:35 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:04:36 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:04:38 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:04:39 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:04:40 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:04:40 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:04:40 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:04:40 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:04:40 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 14:04:44 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:04:48 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:04:48 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:04:48 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:04:49 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:04:49 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:04:49 INFO  FilterDataSteps:99 - ---- Click on filter button ----
+2022-08-07 14:06:10 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:06:12 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:06:12 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:06:13 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:06:13 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:06:13 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:06:14 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 14:06:14 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:06:14 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 14:06:15 INFO  AddDataSteps:74 - ---- New record added to the system successfully ----
+2022-08-07 14:06:17 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:06:19 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:06:19 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:06:19 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:06:20 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:06:20 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:06:22 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:06:25 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:09:48 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:09:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:09:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:09:52 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:09:52 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:09:53 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:09:53 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:09:54 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:09:55 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:09:55 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:09:55 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:09:55 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:09:55 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:09:57 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:09:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:09:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:09:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:09:58 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:09:58 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:09:58 INFO  FilterDataSteps:99 - ---- Click on filter button ----
+2022-08-07 14:12:29 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:12:30 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:12:30 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:12:30 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:12:31 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:12:31 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:12:31 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:12:32 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:12:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:12:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:12:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:12:33 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:12:33 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:12:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:12:36 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:12:36 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:12:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:12:36 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:12:36 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:12:36 INFO  FilterDataSteps:99 - ---- Click on filter button ----
+2022-08-07 14:13:15 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:13:16 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:13:17 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:13:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:13:17 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:13:17 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:13:17 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:13:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:13:20 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:13:20 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:13:20 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:13:21 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:13:21 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:13:22 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:13:26 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:13:26 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:13:26 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:13:27 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:13:27 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:13:27 INFO  FilterDataSteps:99 - ---- Click on filter button ----
+2022-08-07 14:14:37 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:14:38 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:14:38 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:14:39 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:14:39 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:14:39 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:14:43 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:14:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:14:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:14:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:14:46 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:14:46 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:14:47 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:17:51 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:17:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:17:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:17:52 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:17:52 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:17:52 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:17:52 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:17:53 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:17:54 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:17:55 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:17:55 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:17:55 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:17:55 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:17:56 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:17:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:17:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:17:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:17:58 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:17:58 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:17:58 INFO  FilterDataSteps:98 - ---- Click on filter button ----
+2022-08-07 14:19:31 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:19:32 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:19:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:19:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:19:33 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:19:33 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:19:54 INFO  FilterDataSteps:82 - ---- Click on filter button ----
+2022-08-07 14:19:56 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:19:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:19:57 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:19:57 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:19:57 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:19:57 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:21:52 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:21:53 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:21:54 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:21:54 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:21:54 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:21:54 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:21:55 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:21:57 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:21:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:21:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:21:58 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:21:58 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:21:59 INFO  FilterDataSteps:90 - ---- Click on filter button ----
+2022-08-07 14:22:03 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:22:04 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:22:04 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:22:04 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:22:04 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:22:04 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:22:04 INFO  FilterDataSteps:98 - ---- Click on filter button ----
+2022-08-07 14:22:53 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:22:54 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:22:54 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:22:54 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:22:55 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:22:55 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:22:56 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:22:58 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:22:58 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:22:58 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:22:59 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:22:59 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:22:59 INFO  FilterDataSteps:91 - ---- Click on filter button ----
+2022-08-07 14:23:01 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:23:02 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:23:02 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:23:02 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:23:03 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:23:03 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:23:03 INFO  FilterDataSteps:99 - ---- Click on filter button ----
+2022-08-07 14:23:53 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:23:54 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:23:54 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:23:54 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:23:55 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:23:55 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:23:59 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:24:01 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:24:01 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:24:01 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:24:02 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:24:02 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:24:02 INFO  FilterDataSteps:92 - ---- Click on filter button ----
+2022-08-07 14:24:04 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:24:05 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:24:06 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:24:06 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:24:06 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:24:06 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:24:07 INFO  FilterDataSteps:100 - ---- Click on filter button ----
+2022-08-07 14:25:08 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:25:09 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:25:09 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:25:10 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:25:10 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:25:10 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:25:14 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:25:15 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:25:15 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:25:15 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:25:15 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:25:16 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:25:18 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:25:19 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:25:19 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:25:20 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:25:20 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:25:20 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:25:20 INFO  FilterDataSteps:100 - ---- Click on filter button ----
+2022-08-07 14:26:49 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:26:50 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:26:50 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:26:51 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:26:51 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:26:51 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:26:55 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:26:56 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:26:56 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:26:56 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:26:56 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:26:56 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:27:05 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:27:08 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:27:08 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:27:09 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:27:09 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:27:09 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:27:09 INFO  FilterDataSteps:100 - ---- Click on filter button ----
+2022-08-07 14:28:39 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:28:42 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:28:42 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:28:42 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:28:42 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:28:43 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:28:45 INFO  FilterDataSteps:83 - ---- Click on filter button ----
+2022-08-07 14:28:46 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:28:48 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:28:48 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:28:48 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:28:48 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:28:48 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:28:50 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:28:52 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:28:52 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:28:52 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:28:53 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:28:53 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:28:53 INFO  FilterDataSteps:100 - ---- Click on filter button ----
+2022-08-07 14:30:19 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:30:20 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:30:20 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:30:20 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:30:20 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:30:20 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:30:22 INFO  FilterDataSteps:83 - ---- Click on filter button ----
+2022-08-07 14:30:24 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:30:25 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:30:25 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:30:25 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:30:25 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:30:25 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:30:25 INFO  FilterDataSteps:92 - ---- Click on filter button ----
+2022-08-07 14:30:26 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:30:28 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:30:28 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:30:28 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:30:28 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:30:28 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:30:28 INFO  FilterDataSteps:100 - ---- Click on filter button ----
+2022-08-07 14:31:25 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:31:26 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:31:26 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:31:26 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:31:26 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:31:26 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:31:28 INFO  FilterDataSteps:83 - ---- Click on filter button ----
+2022-08-07 14:31:31 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:31:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:31:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:31:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:31:34 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:31:34 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:31:34 INFO  FilterDataSteps:92 - ---- Click on filter button ----
+2022-08-07 14:31:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:31:38 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:31:38 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:31:38 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:31:38 INFO  FilterDataSteps:68 - ---- Enter data to the master filters  ----
+2022-08-07 14:31:38 INFO  FilterDataSteps:74 - ---- Click on filter button ----
+2022-08-07 14:31:38 INFO  FilterDataSteps:100 - ---- Click on filter button ----
+2022-08-07 14:36:32 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:36:33 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:36:33 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:36:33 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:36:34 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:36:34 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:36:35 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:36:36 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:36:36 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:36:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:36:37 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:36:37 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:36:39 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:39:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:39:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:39:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:39:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:39:47 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:39:47 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:39:48 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:39:49 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:39:50 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:39:50 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:39:50 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:39:50 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:39:52 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:41:41 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:41:42 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:41:43 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:41:43 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:41:43 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:41:43 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:41:45 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:41:46 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:41:46 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:41:47 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:41:47 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:41:47 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:41:49 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:44:15 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:44:16 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:44:16 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:44:17 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:44:17 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:44:17 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:44:18 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:44:19 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:44:19 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:44:20 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:44:20 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:44:20 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:44:22 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:46:30 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:46:31 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:46:31 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:46:31 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:46:31 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:46:31 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:46:32 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 14:46:32 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:46:32 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 14:46:33 INFO  AddDataSteps:74 - ---- New record added to the system successfully ----
+2022-08-07 14:46:34 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:46:36 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:46:36 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:46:36 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:46:36 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:46:36 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:46:38 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 14:54:22 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:54:23 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:54:23 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:54:24 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:54:24 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:54:24 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 14:54:25 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 14:54:25 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 14:54:25 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 14:54:25 INFO  AddDataSteps:74 - ---- New record added to the system successfully ----
+2022-08-07 14:54:27 INFO  LoginSteps:39 - ---- Launching Browser ----
+2022-08-07 14:54:28 INFO  LoginSteps:54 - ---- Opening URL ----
+2022-08-07 14:54:28 INFO  LoginSteps:61 - ---- Providing login details ----
+2022-08-07 14:54:28 INFO  LoginSteps:67 - ---- Clicking on Login button ----
+2022-08-07 14:54:29 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 14:54:29 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 15:12:03 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 15:12:04 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 15:12:04 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 15:12:04 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 15:12:04 INFO  LoginSteps:80 - ---- Login success and navigated to View Data page ----
+2022-08-07 15:12:06 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 15:12:07 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 15:12:07 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 15:12:07 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 15:12:08 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 15:12:09 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 15:12:10 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 15:12:10 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 15:12:11 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 15:12:12 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 15:12:12 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 15:12:12 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 16:22:33 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 16:22:34 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 16:22:34 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 16:22:34 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 16:22:34 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 16:22:34 INFO  AddDataSteps:35 - ---- User navigates to  on Add Data page ----
+2022-08-07 16:22:35 INFO  AddDataSteps:51 - ---- User enters user details ----
+2022-08-07 16:22:35 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 16:22:35 INFO  AddDataSteps:66 - ---- User directs to the View Data page ----
+2022-08-07 16:22:36 INFO  AddDataSteps:74 - ---- New record added to the system successfully ----
+2022-08-07 16:22:37 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 16:22:38 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 16:22:38 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 16:22:38 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 16:22:39 INFO  AddDataSteps:27 - ---- Click on Add New button ----
+2022-08-07 16:22:39 INFO  AddDataSteps:59 - ---- Clicking on submit button ----
+2022-08-07 16:22:41 INFO  AddDataSteps:80 - ---- Address field is mandatory ----
+2022-08-07 17:06:01 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:06:02 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:06:02 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:06:02 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:06:04 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:06:05 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:06:05 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:06:05 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:06:07 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:06:08 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:06:08 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:06:08 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:06:10 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:06:11 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:06:11 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:06:11 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:08:01 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:08:03 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:08:03 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:08:03 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:08:03 INFO  LoginSteps:80 - ---- Login success and navigated to View Data page ----
+2022-08-07 17:08:04 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:08:05 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:08:05 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:08:05 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:08:07 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:08:09 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:08:09 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:08:09 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:08:11 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:08:12 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:08:12 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:08:12 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:08:56 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:08:57 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:08:57 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:08:57 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:08:57 INFO  LoginSteps:80 - ---- Login success and navigated to View Data page ----
+2022-08-07 17:08:59 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:09:00 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:09:00 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:09:00 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:09:00 INFO  LoginSteps:90 - ---- Login success and navigated to View Data page ----
+2022-08-07 17:09:02 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:09:03 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:09:04 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:09:04 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:09:04 INFO  LoginSteps:90 - ---- Login success and navigated to View Data page ----
+2022-08-07 17:09:06 INFO  LoginSteps:44 - ---- Launching Browser ----
+2022-08-07 17:09:07 INFO  LoginSteps:59 - ---- Opening URL ----
+2022-08-07 17:09:08 INFO  LoginSteps:66 - ---- Providing login details ----
+2022-08-07 17:09:08 INFO  LoginSteps:72 - ---- Clicking on Login button ----
+2022-08-07 17:09:08 INFO  LoginSteps:90 - ---- Login success and navigated to View Data page ----
